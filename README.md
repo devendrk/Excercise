@@ -2,7 +2,7 @@
 ### _Exercises_  
 * [snippet studies](https://github.com/devendrk/primitive-types-coercion-/blob/master/README.md)  
 * [an errors](https://github.com/devendrk/error-log)  
-* [expansions]https://github.com/devendrk/Expansion)  
+* [expansions](https://github.com/devendrk/Expansion)  
 * [creating exercises](https://github.com/devendrk/Creating-excercises)  
 
 ### _Resources_    
