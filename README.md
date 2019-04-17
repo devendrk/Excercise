@@ -1,7 +1,6 @@
 # Excercise
 ### _Exercises_  
-* [snippet studies](https://github.com/devendrk/primitive-types-coercion-/blob/master/README.md)  
-* [an errors](https://github.com/devendrk/error-log)  
+* [snippet studies](https://github.com/devendrk/primitive-types-coercion-/blob/master/README.md)    
 * [expansions](https://github.com/devendrk/Expansion)  
 * [creating exercises](https://github.com/devendrk/Creating-excercises)  
 
