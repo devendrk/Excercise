@@ -2,7 +2,7 @@
 ### _Exercises_  
 * [snippet studies](https://github.com/devendrk/primitive-types-coercion-/blob/master/README.md)    
 * [expansions](https://github.com/devendrk/Expansion)  
-* [creating exercises](https://github.com/devendrk/Creating-excercises)  
+  
 
 ### _Resources_    
 * [effective learning](https://github.com/elewa-academy/effective-learning)  
